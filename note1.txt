@@ -92,3 +92,6 @@ $ git rm -f file_name          (to force remove)
 
 
 //----------------------------------------------------------------
+
+@ what is the shorthand for add as well as commit 
+$ git commit -a -m "your message"
