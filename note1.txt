@@ -67,3 +67,28 @@ $ git add -a
 
 //----------------------------------------------------------------
 
+@ how to commit files without opening a vim terminal?
+$ git commit -m "you message to save"
+=>[master 365e47e] Added more htmls
+ 4 files changed, 80 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 monument.html
+ create mode 100644 note1.txt
+
+
+
+//----------------------------------------------------------------
+@what is the use of    
+$ git checkout <filename> 
+$ git checkout -f
+$ git diff
+$ git ls
+
+$ git rm file_name
+$ git rm --cached file_name    (to keep file)
+$ git rm -f file_name          (to force remove)
+
+
+
+//----------------------------------------------------------------
